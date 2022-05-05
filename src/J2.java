@@ -1,4 +1,4 @@
-import java.util.Scanner;
+//import java.util.Scanner;
 
 public class J2 {
     public static void main(String[] args) {
@@ -15,6 +15,12 @@ public class J2 {
         } else {
             System.out.println("Who are you?");
         }
+        if (Long.MAX_VALUE > Double.MAX_VALUE) {
+            System.out.println("float win");
+        } else {
+            System.out.println("double win");
+        }
+
 //        Scanner sc = new Scanner(System.in);
 //        int i = sc.nextInt();
 //
