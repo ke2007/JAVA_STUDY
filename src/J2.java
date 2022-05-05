@@ -21,4 +21,4 @@ public class J2 {
 //        System.out.println(i*1000);
 //        sc.close();
     }
-}
+} 
