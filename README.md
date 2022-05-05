@@ -1,2 +1,2 @@
 # JAVA_STUDY
-JAVA_STUDY하는 파일 
+"문법 공부하는 파일" 
