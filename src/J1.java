@@ -1,4 +1,4 @@
-public class 비교연산자 {
+public class J1 {
     public static void main(String[] args) {
         System.out.println("a");
         if (false) {
